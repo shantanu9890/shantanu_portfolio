@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(61, 185, 168);
+  display: flex;
+}
+
+.backImg img {
+  width: 83.9vw;
+  height: 35vh;
+  opacity: 0.4;
+}
+
+.about {
+  color: white;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  margin-top: -30vh;
+}
+
+.heading {
+  font-size: 35px;
+  text-decoration: underline;
+}
+
+.content {
+  font-size: 28px;
+}
+
+.content span {
+  font-size: 35px;
+}
